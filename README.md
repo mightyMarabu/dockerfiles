@@ -1,10 +1,12 @@
-# dockerfiles
 
 ## landbook
 
-### build container
+build container
 
 ```bash
 sudo docker build -t landbook .
 ```
-### push to dockerhub
+push to dockerhub
+```bash
+docker tag image username/repository:tag
+```
