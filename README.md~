@@ -7,4 +7,3 @@
 ```bash
 sudo docker build -t landbook .
 ```
-### push to dockerhub
