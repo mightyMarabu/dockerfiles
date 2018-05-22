@@ -1,5 +1,6 @@
 FROM ubuntu:latest
 
+#Maintainer: Sebastian Schmidt
 
 # Update aptitude with new repo
 RUN apt-get update
